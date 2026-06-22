@@ -164,4 +164,8 @@ Model weights are saved to Google Drive. Update paths in the notebooks to match 
 
 ## 👤 Authors
 
-Bilal Bushra, Maria Imran, Neeka Javed, Imaan Mufti, Zunaira Zaheer.
+Bilal Bushra   (MSDS25051)
+Maria Imran    (MSDS25012)
+Neeka Javed    (MSDS25008)
+Imaan Mufti    (MSDS25050)
+Zunaira Zaheer (MSDS25049)
