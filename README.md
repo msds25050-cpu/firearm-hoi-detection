@@ -188,4 +188,4 @@ See the full [Code Analysis Report](./CODE_ANALYSIS_REPORT.md) for a detailed li
 
 ## 👤 Author
 
-Imaan — Deep Learning Project, 2024/2025
+Maria Imran, Imaan Mufti, Zunaira Zaheer, Bilal Bushra, Neeka Javed
