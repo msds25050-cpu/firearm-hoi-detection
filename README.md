@@ -91,7 +91,7 @@ pip install timm scikit-learn matplotlib seaborn
 ```
 
 ### Dataset
-- **LFC Dataset** — stored on Google Drive
+- **LFC Dataset** — [Download from Google Drive](https://drive.google.com/drive/folders/1X0wF1EfShQzQRJILPQEHGRAH53h2Qrtu?usp=sharing)
 - Update the dataset path in the notebook to match your own Drive location
 - Annotations file: `labeled_interactions_augmented.json`
 
@@ -151,10 +151,10 @@ Threat Report (LOW / MEDIUM / HIGH)
 ---
 
 ## 💾 Checkpoints
-
-Model weights are saved to Google Drive. 
+ 
 > 📁 [Access all checkpoints on Google Drive](https://drive.google.com/drive/folders/1lSHswuMxz1x-raHuYBxy2kAqz5Hw63Ee?usp=sharing)
-Update paths in the notebooks to match your Drive:
+
+Model weights are saved to Google Drive. Update paths in the notebooks to match your Drive:
 
 | File | Description |
 |------|-------------|
