@@ -152,7 +152,9 @@ Threat Report (LOW / MEDIUM / HIGH)
 
 ## 💾 Checkpoints
 
-Model weights are saved to Google Drive. Update paths in the notebooks to match your Drive:
+Model weights are saved to Google Drive. 
+> 📁 [Access all checkpoints on Google Drive](https://drive.google.com/drive/folders/1lSHswuMxz1x-raHuYBxy2kAqz5Hw63Ee?usp=sharing)
+Update paths in the notebooks to match your Drive:
 
 | File | Description |
 |------|-------------|
